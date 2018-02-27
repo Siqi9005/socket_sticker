@@ -11,7 +11,7 @@ var allstickers = {};
 
 
 io.on("connection", function(socket){
-    console.log("someone is connected");
+    console.log("someone is connected!");
     
     
     //allusers.push(socket.id);
